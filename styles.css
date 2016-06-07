@@ -14,3 +14,10 @@
 	width: 500px;
 	background-color: lightblue
 	}
+	
+.image
+{
+	width: 200px;
+	position:relative;
+	left: 20px
+}
